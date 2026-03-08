@@ -41,9 +41,7 @@ color-detection
 ## Example Output
 
 Detected colored object from different angles:
-
-<img src="output/output1.png" width="400">
-<img src="output/output2.png" width="400">
+| <img src="output/output1.png" width="300"> | <img src="output/output2.pngg" width="300"> |
 
 ## Installation
 
@@ -51,7 +49,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/ankithathecoder/Color-Detection-Tracker.git
-cd color-detection
+cd Color-Detection-Tracker
 ```
 
 Install dependencies:
