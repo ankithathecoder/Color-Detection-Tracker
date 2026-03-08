@@ -41,7 +41,10 @@ color-detection
 ## Example Output
 
 Detected colored object from different angles:
-| <img src="output/output1.png" width="300"> | <img src="output/output2.pngg" width="300"> |
+
+| Output 1 | Output 2 |
+|----------|----------|
+| <img src="output/output1.png" width="300"> | <img src="output/output2.png" width="300"> |
 
 ## Installation
 
